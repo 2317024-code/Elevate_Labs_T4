@@ -1,12 +1,12 @@
 # Elevate Labs Task 4
 
-# SQL for Data Analysis
+SQL for Data Analysis
 
 # Ecommerce SQL Analysis — Customers table
 
 This small project demonstrates core SQL skills by creating an ecommerce database and a customers table, inserting sample rows, and using queries to explore and analyze the data. The README below describes what I implemented, the queries I ran, how to reproduce the work locally, and next steps.
 
-# What I built
+What I built
 
 I created a minimal e-commerce schema focused on customer data and performed basic to intermediate SQL analysis on it. Highlights:
 
